@@ -1,8 +1,8 @@
 Passo a passo para subir a sua primeira função lambda via cli.
 
-Contextualizando;
+Pré-rec;
 
-- Estou partindo do fato que você já tem na aws.
+- Estou partindo do fato que você já tem um conta na aws.
 - Tem um user de IAM criado nessa conta.
 - Tem o AWS-cli instalado e devidamente configurado para esse user.
 - Esse é o pré-rec minimo para que você consiga executar esse tutorial.
